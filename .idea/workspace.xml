@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4f40d7c7-82b9-4300-8d9a-90f6af1ae476" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/Desktop/rimon/projet1",
     "node.js.detected.package.eslint": "true",
@@ -83,7 +85,8 @@
       <updated>1731945558976</updated>
       <workItem from="1731945559984" duration="663000" />
       <workItem from="1731951516829" duration="13000" />
-      <workItem from="1731951537271" duration="301000" />
+      <workItem from="1731951537271" duration="1299000" />
+      <workItem from="1731962854518" duration="208000" />
     </task>
     <servers />
   </component>
